@@ -32,7 +32,11 @@ Portfolio: [akshaymrdev.vercel.app](https://akshaymrdev.vercel.app)
 
 ---
 
-### Open source
+### Open source contributions
 
 - <img src="https://cdn.simpleicons.org/google" height="14" alt="Google" title="Google"/> **google/tunix** — Fixed a TOCTOU race condition. [PR #1627](https://github.com/google/tunix/pull/1627)
 - <img src="https://cdn.simpleicons.org/meta" height="14" alt="Meta" title="Meta"/> **facebook/pyrefly** — Fixed type inference for class-level `@property` access. [PR #3963](https://github.com/facebook/pyrefly/pull/3963)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AMR5210&label=Profile%20views&color=6f42c1&style=flat" alt="Profile views" />
+</p>
