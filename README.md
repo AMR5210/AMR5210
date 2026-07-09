@@ -18,17 +18,21 @@ Portfolio: [akshaymrdev.vercel.app](https://akshaymrdev.vercel.app)
 
 ### Tech I work with
 
-**Languages**
+### Languages
 
-[![Languages](https://skillicons.dev/icons?i=swift,python,ts,java,c,go,dart&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=swift,go,python,ts,java,c,dart&perline=7)](https://skillicons.dev)
 
-**Frameworks**
+### Frameworks & Libraries
 
 [![Frameworks](https://skillicons.dev/icons?i=flutter,react,angular,fastapi,django,nodejs&perline=7)](https://skillicons.dev)
 
-**Data, infra & tools**
+### Infrastructure & DevOps
 
-[![Tools](https://skillicons.dev/icons?i=postgres,supabase,mongodb,gcp,docker,git,arduino,raspberrypi&perline=8)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,prometheus,grafana,git&perline=8)](https://skillicons.dev)
+
+### Databases & Caching
+
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,supabase,mongodb&perline=7)](https://skillicons.dev)
 
 ---
 
